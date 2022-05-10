@@ -1,0 +1,16 @@
+speaker,ground,function,features,WER-r1,WER-r2,WER-r3,WER-mean,WER-stdev
+assamese_female_english,all,FL2MI-n:1.0,39,20.76,19.74,20.1,20.2,0.5176871642217914
+assamese_female_english,all,GCMI-n:1.0,39,19.75,19.68,19.98,19.8,0.15811388300841897
+assamese_female_english,all,LogDMI-n:1.0,39,19.32,19.51,20.51,19.78,0.6395310782127792
+kannada_male_english,all,FL2MI-n:1.0,39,14.2,14.72,14.17,14.36,0.30983866769659335
+kannada_male_english,all,GCMI-n:1.0,39,14.44,14.33,14.14,14.3,0.15165750888103102
+kannada_male_english,all,LogDMI-n:1.0,39,14.34,14.1,14.85,14.43,0.38340579025361626
+malayalam_male_english,all,FL2MI-n:1.0,39,15.28,15.16,15.57,15.34,0.20976176963403032
+malayalam_male_english,all,GCMI-n:1.0,39,15.73,15.43,15.15,15.44,0.28982753492378877
+malayalam_male_english,all,LogDMI-n:1.0,39,15.69,15.16,15.5,15.45,0.2683281572999748
+manipuri_female_english,all,FL2MI-n:1.0,39,43.44,42.94,42.42,42.93,0.5099019513592785
+manipuri_female_english,all,GCMI-n:1.0,39,43.22,41.85,41.73,42.27,0.8276472678623424
+manipuri_female_english,all,LogDMI-n:1.0,39,44.05,42.33,42.71,43.03,0.9033271832508971
+rajasthani_male_english,all,FL2MI-n:1.0,39,15.86,15.61,15.04,15.5,0.4207136793592526
+rajasthani_male_english,all,GCMI-n:1.0,39,15.64,15.17,15.49,15.43,0.24083189157584592
+rajasthani_male_english,all,LogDMI-n:1.0,39,15.16,15.31,15.95,15.47,0.41952353926806063
